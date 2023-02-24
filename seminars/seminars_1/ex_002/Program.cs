@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Здача 2");
+﻿Console.WriteLine("Здача 2, показать чётные числа от 1 до N");
