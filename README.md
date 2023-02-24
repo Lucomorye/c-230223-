@@ -10,7 +10,7 @@
     - seminars_1
         - ex_001 
 
-            - ### Вывести квадрат числа | [CODE](seminars/seminars_1/ex_001)
+            - ### Вывести квадрат числа | [Блок схема](seminars/seminars_1/ex_001/diagram.drawio.png) >>> [CODE](seminars/seminars_1/ex_001) 
 
             - ex_002 [CODE](seminars/seminars_1/ex_002)
             - ex_003 [CODE](seminars/seminars_1/ex_003)
