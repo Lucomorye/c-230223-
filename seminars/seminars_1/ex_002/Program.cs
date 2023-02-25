@@ -1,9 +1,9 @@
-﻿int n = 7;
+﻿int n = 5;
 int result;
 int i = 1;
 
 
-while (i < n)
+while (i <= n)
 {
     if (i % 2 == 0)
     {

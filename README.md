@@ -1,5 +1,9 @@
 - homework
     - homework_1
+        - ex_001 ccылка и диаграмма
+        - ex_002
+        - ex_003
+        - ex_004
     - homework_2
     - homework_3
 - lectures
